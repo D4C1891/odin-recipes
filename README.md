@@ -1,1 +1,1 @@
-# odin-recipes
+This is supposed to be a recipe website project that is part of The Odin Project Ciriculum.
